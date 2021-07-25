@@ -1,3 +1,5 @@
+<?php
+
 /*
 How much until Noroz
 By Amirhossein Mohammdi.
@@ -9,7 +11,5 @@ https://github.com/BlackIQ/Quera/tree/main/2-quera
 Read README for more information.
 Under MIT License.
 */
-
-<?php
 
 ?>
