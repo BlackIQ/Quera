@@ -4,4 +4,7 @@ I have an idea and that is when I solve a question, put it here to people can se
 
 In each directory there is question link and details about question.
 
+People who helepd in learning:
+- [Amirhossein Meydani](https://github.com/amireshoon)
+
 **Amirhossein Mohammadi**
